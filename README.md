@@ -13,7 +13,8 @@ Une fois arrivez sur cette page, il vous suffit de faire glisser votre image dan
 > Pas besoin de sauvegarder l'issue
 ![2](https://user-images.githubusercontent.com/35492203/56350336-d79a1c00-61ca-11e9-862e-30dd1af82c04.PNG)
 ```
-Github va directement upload votre image et la transformer en lien utilisable
+Github va directement upload votre image et la transformer en lien utilisable.
+/!\ Pas besoin de sauvegarder votre 'issue' :)
 ```
 ![3](https://user-images.githubusercontent.com/35492203/56350338-d8cb4900-61ca-11e9-98b6-e32ac9504428.PNG)
 
